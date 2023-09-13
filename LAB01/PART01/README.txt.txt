@@ -2,6 +2,11 @@ STUDENT NAME: Alejandro Mejia
 
 NOTES ON SUBMISSION:
 #Any information the TA/marker requires to grade your submission for this part
+DEMONSTRATE and EXPLAIN the differences in motion between using these three animation profiles on the
+rotation channel:
+(a) Exponentially increases and stops the animation 
+(b) Eases in and eases  out of the animation
+(c) Linear animation, linear movement
 
 ATTESTATION: 
 
