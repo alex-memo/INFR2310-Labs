@@ -1,8 +1,8 @@
 STUDENT NAME: Alejandro Mejia
 
-SUBMISSION DATE: 2023-MM-DD
+SUBMISSION DATE: 2023-09-20
 
-LAB: [LAB XX: TITLE] I.e. LAB 01: Getting to Know the Unity Timeline
+LAB 01: Getting to Know the Unity Timeline
 
 ATTESTATION:
 
