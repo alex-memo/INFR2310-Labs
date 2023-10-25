@@ -2,7 +2,7 @@ STUDENT NAME: Alejandro Mejia
 
 SUBMISSION DATE: 2023-MM-DD
 
-LAB: [LAB XX: TITLE] I.e. LAB 01: Getting to Know the Unity Timeline
+LAB: [LAB 03: Simple Navigation]
 
 ATTESTATION:
 
